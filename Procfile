@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app
+web: gunicorn python-flask-demo-322.wsgi
